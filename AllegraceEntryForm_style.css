@@ -1,0 +1,56 @@
+body{
+    background-image: url("images/websitelogo.jpg");
+    background-size:cover ;
+    background-position: center;
+    font-family: SansSerif;
+
+}
+
+
+
+.container{
+    width: 250px;
+    background-color: seagreen;
+    alignment: center;
+    padding: 30px;
+    border-bottom: 3px;
+    align-content: center;
+    box-shadow: 0 0 3px 0 crimson;
+    text-align: center;
+    margin-left: 480px;
+}
+h1{
+    font-family: Bahnschrift;
+    font-size: 35px;
+    color: firebrick;
+    alignment: center;
+}
+label{
+    margin-bottom:4px ;
+    font-size: 15px;
+    color: aquamarine ;
+    text-decoration: underline;
+}
+button{
+    color: antiquewhite;
+    padding: 20px;
+    width: 10px 0;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: darkgrey;
+}
+form{
+  flex: auto;
+    margin-bottom: 30px;
+}
+input{
+    border: 1px black dotted;
+    border-radius: 10px;
+    border-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+
+}

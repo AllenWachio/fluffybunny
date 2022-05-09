@@ -1,0 +1,22 @@
+.h1 h2{
+    font-size: 30px;
+    font-family: Algerian;
+    text-decoration: underline crimson;
+    color: whitesmoke;
+    text-align: center;
+}
+iframe{
+    width: 620px;
+    height: 500px;
+    border: 1px solid black;
+    border: 10px;
+}
+body{
+    background:linear-gradient(cornflowerblue,snow) ;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    font-family: Bahnschrift;
+
+}
